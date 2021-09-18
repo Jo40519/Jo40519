@@ -1,6 +1,5 @@
 ## Olá, sou o João Vitor Lobato
-<img align="left" height="200" alt="yoda" src="https://cdn.discordapp.com/attachments/875871264437305345/875875306777497630/sticker_13.gif">
-  
+
 💻 Atualmente trabalhdo com Front-end <br>
 📚 Estudando desenvolvimento em Front-end. E graduando em Sistemas de Informação.
 
