@@ -28,7 +28,6 @@ Graduating in Information Systems at Unipê.
   <img align="center" alt="jogo-angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> <br> <br>
 
 <div>
-  
   <a href="https://instagram.com/ancient.dreams" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-lobato-baa495203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://https://gitlab.com/Jo40519" target="_blank"><img src="https://img.shields.io/badge/-GitLab-%23E4405F?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
