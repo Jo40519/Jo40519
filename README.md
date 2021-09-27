@@ -13,7 +13,7 @@ Studying with a focus on front-end. <br>
 Experience with framework development: Angular and Spring, Java. <br>
 Has knowledge in HTML, CSS, JavaScript, TypeScript and GIT. <br>
 Graduating in Information Systems at Unipê.
-
+    
  <div>
   <a href="https://github.com/Jo40519">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jo40519&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> &nbsp;
