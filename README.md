@@ -8,6 +8,7 @@ Possui conhecimentos em HTML, CSS, JavaScript, TypeScript e GIT. <br>
 Graduando em Sistemas de Informações na Unipê.
 ##
 
+💻📚
 My name is João Vitor, I'm 20 years old, currently working as a Junior Systems Engineer at Indra Company. <br>
 Studying with a focus on front-end. <br>
 Experience with framework development: Angular and Spring, Java. <br>
