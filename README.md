@@ -2,7 +2,7 @@
 
 💻📚
 Meu nome é João Vitor, tenho 20 anos, atualmente trabalhando como Engenheiro de Sistemas Júnior da Indra Company. <br>
-Estudante com foco em front-end. <br>
+Estudando com foco em front-end. <br>
 Experiência com desenvolvimento em framework: Angular e Spring, Java. <br>
 Possui conhecimentos em HTML, CSS, JavaScript, TypeScript e GIT. <br>
 Graduando em Sistemas de Informações na Unipê.
