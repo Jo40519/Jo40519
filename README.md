@@ -13,7 +13,7 @@ My name is João Vitor, I'm 20 years old, currently working as a Junior Systems 
 Studying with a focus on front-end. <br>
 Experience with framework development: Angular and Spring, Java. <br>
 Has knowledge in HTML, CSS, JavaScript, TypeScript and GIT. <br>
-Graduating in Information Systems at Unipê.aaaa
+Graduating in Information Systems at Unipê.
     
  <div>
   <a href="https://github.com/Jo40519">
