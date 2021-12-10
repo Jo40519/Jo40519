@@ -1,7 +1,7 @@
 ## Olá, sou o João Vitor Lobato
 
 💻📚
-Meu nome é João Vitor, tenho 20 anos, atualmente trabalhando como Engenheiro de Sistemas Júnior da Indra Company. <br>
+Meu nome é João Vitor, tenho 21 anos, atualmente trabalhando como Engenheiro de Sistemas Júnior da Indra Company. <br>
 Estudando com foco em front-end. <br>
 Experiência com desenvolvimento em framework: Angular e Spring, Java. <br>
 Possui conhecimentos em HTML, CSS, JavaScript, TypeScript e GIT. <br>
@@ -9,7 +9,7 @@ Graduando em Sistemas de Informações na Unipê.
 ##
 
 💻📚
-My name is João Vitor, I'm 20 years old, currently working as a Junior Systems Engineer at Indra Company. <br>
+My name is João Vitor, I'm 21 years old, currently working as a Junior Systems Engineer at Indra Company. <br>
 Studying with a focus on front-end. <br>
 Experience with framework development: Angular and Spring, Java. <br>
 Has knowledge in HTML, CSS, JavaScript, TypeScript and GIT. <br>
