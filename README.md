@@ -28,7 +28,9 @@ Graduating in Information Systems at Unipê.
   <img align="center" alt="joao-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp; &nbsp;
   <img align="center" alt="joao-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp; &nbsp;
   <img align="center" alt="joao-Ts" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> &nbsp; &nbsp;
-  <img align="center" alt="jogo-angular" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> &nbsp; &nbsp; <br>  <br>
+  <img align="center" alt="jogo-angular" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="jogo-bootstrap" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+      &nbsp; &nbsp; <br>  <br>
 <h2>Here you know me, talk to me</h2> <br> <br>
 <div>
   <a href="https://instagram.com/ancient.dreams" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> &nbsp; &nbsp; &nbsp;
