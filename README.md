@@ -29,8 +29,7 @@ Graduating in Information Systems at Unipê.
   <img align="center" alt="joao-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp; &nbsp;
   <img align="center" alt="joao-Ts" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> &nbsp; &nbsp;
   <img align="center" alt="jogo-angular" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-   <img align="center" alt="jogo-java" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="jogo-spring" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="jogo-nodejs" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="jogo-git" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
       &nbsp; &nbsp; <br>  <br>
 <h2>Here you know me, talk to me</h2> <br> <br>
